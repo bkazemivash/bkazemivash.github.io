@@ -2,25 +2,23 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.gsu.edu'>Georgia State University</a>, 33 Gilmer Street SE Atlanta, GA 30303.
+subtitle: <a href='https://www.gsu.edu'>Georgia State University</a>, Computer Science Ph.D. Candidate
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: BehnamKazemivash.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>1806C, Trends center</p>
-    <p>55 Park Pl NE</p>
-    <p>Atlanta, GA 30303</p>
+    <p style="color:black;font-size:14px;text-align:center;">1806C, Trends center</p>
+    <p style="color:black;font-size:14px;text-align:center;">55 Park Pl NE</p>
+    <p style="color:black;font-size:14px;text-align:center;">Atlanta, GA 30303</p>
 
 news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
+latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-This is behnam's biography. Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a graduate student at the Computer Science department of Georgia State University. Currently, I am working as a Graduate Research Assistant at the prestigious Center for Translational Research in Neuroimaging and Data Science ([TReNDS](https://trendscenter.org)), a collaborative research hub involving Georgia Tech, Georgia State, and Emory University. Under the supervision of [Dr. Vince Calhoun](https://scholar.google.com/citations?hl=en&user=WNOoGKIAAAAJ&view_op=list_works&sortby=pubdate).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My academic journey is centered around the interesting realm of <strong>Computer Vision</strong>, with a specific focus on its application in the intricate field of neuroimaging. Precisely, my intellectual curiosity is drawn to the intricate domains of <strong>dense prediction</strong>, <strong>spatiotemporal dynamics</strong>, and <strong>multi-task training</strong> to make meaningful contributions to both the scientific community and society as a whole.
