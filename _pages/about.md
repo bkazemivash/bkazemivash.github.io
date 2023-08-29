@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.gsu.edu'>Georgia State University</a>. 33 Gilmer Street SE Atlanta, GA 30303.
+subtitle: <a href='https://www.gsu.edu'>Georgia State University</a>, 33 Gilmer Street SE Atlanta, GA 30303.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>1806C, Trends center</p>
+    <p>55 Park Pl NE</p>
+    <p>Atlanta, GA 30303</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
