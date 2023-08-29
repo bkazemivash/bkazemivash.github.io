@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://www.gsu.edu'>Georgia State University</a>. 33 Gilmer Street SE Atlanta, GA 30303.
 
 profile:
   align: right
