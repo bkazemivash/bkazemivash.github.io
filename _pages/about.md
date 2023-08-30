@@ -9,9 +9,9 @@ profile:
   image: BehnamKazemivash.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p style="color:black;font-size:14px;text-align:center;">1806C, Trends center</p>
-    <p style="color:black;font-size:14px;text-align:center;">55 Park Pl NE</p>
-    <p style="color:black;font-size:14px;text-align:center;">Atlanta, GA 30303</p>
+    <p style="font-size:14px;text-align:center;">1806C, Trends center</p>
+    <p style="font-size:14px;text-align:center;">55 Park Pl NE</p>
+    <p style="font-size:14px;text-align:center;">Atlanta, GA 30303</p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
