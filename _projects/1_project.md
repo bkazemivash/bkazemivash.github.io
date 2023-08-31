@@ -1,11 +1,12 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: Georgia State University
+description: Aug 2019 - present
+img: assets/img/gsu.jpg
 importance: 1
 category: work
-related_publications: einstein1956investigations, einstein1950meaning
+related_publications: 
+redirect: https://gsu.edu
 ---
 
 Every project has a beautiful feature showcase page.

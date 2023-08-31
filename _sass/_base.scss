@@ -92,6 +92,7 @@ blockquote {
 
   .card-title {
     color: var(--global-text-color);
+    font-size: medium;
   }
 
   .card-item {
@@ -531,7 +532,7 @@ footer.sticky-bottom {
 
   .grid-sizer,
   .grid-item {
-    width: 250px;
+    width: 220px;
     margin-bottom: 10px;
   }
 

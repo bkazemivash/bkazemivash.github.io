@@ -53,6 +53,10 @@ layout: default
             {%- include latest_posts.html %}
           {%- endif %}
 
+          <!-- Works -->
+          <h2><a href="" style="color: inherit;">Experience</a></h2>
+          {%- include experience.html %}          
+
           <!-- Selected papers -->
           {% if page.selected_papers -%}
             <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">selected publications</a></h2>

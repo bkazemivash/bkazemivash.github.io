@@ -1,12 +1,11 @@
 ---
 layout: page
-title: TReNDS
-description: Aug 2019 - present
-img: assets/img/trends2.jpg
-importance: 2
+title: project 1
+description: a project with a background image
+img: assets/img/12.jpg
+importance: 1
 category: work
-giscus_comments: false
-redirect: https://trendscenter.org
+related_publications: einstein1956investigations, einstein1950meaning
 ---
 
 Every project has a beautiful feature showcase page.
